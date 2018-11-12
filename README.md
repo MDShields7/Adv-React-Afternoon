@@ -38,7 +38,7 @@ be creative in how you display this components props!
 
 Create a higher order component that accepts both a Component and a URL as arguments and returns a new component with the data passed in as a prop.
 
-this is the data you should plan for in your Display Class Component, feel free to add more data from the API (stretch yourself and refer back to the nested call you did in step 1 for inspiration)
+this is the data you should plan for in your Display Class Component, feel free to add more data from the API (stretch yourself and refer back to the nested call you did in part 1 for inspiration)
 
 **character**
 
