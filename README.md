@@ -1,7 +1,3 @@
-Container vs Presentational: create a "all-in-one component", e.g. fetches pokemon data. Commit that. Then split it out into two components: a container and a presentational component.
-• for an HOC, remake the DataFetcher component we made in the mini. Start from scratch to really learn it. Then extend it by adding a way to show errors, and make sure it works by forcing some error (e.g. supply a bad url)
-• Create a DataPoster render prop component
-
 # Afternoon Practice
 
 ## presentation / container
